@@ -1,0 +1,2 @@
+# pthon
+Python basics
