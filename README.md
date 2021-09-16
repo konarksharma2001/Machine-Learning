@@ -1,2 +1,1 @@
-# pthon
-Python basics
+Machine Learning
